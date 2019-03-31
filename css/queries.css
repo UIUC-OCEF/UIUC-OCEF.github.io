@@ -56,7 +56,7 @@
 
     header nav {
         position: relative;
-        top: 45%;
+        top: 20%;
         -moz-transform: translatey(-45%);
         -ms-transform: translatey(-45%);
         -o-transform: translatey(-45%);
